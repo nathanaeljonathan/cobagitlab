@@ -1,0 +1,12 @@
+.modal-footer {   border-top: 0px; }
+.panel-tittle {
+	text-align: center;
+	font-weight: bold;
+	font-family: times;
+}
+.lompat{ height: 80px;}
+.lumpat{ width: 480px;}
+.row{width: 100%;}
+.transparan1{opacity:0.4;filter:alpha(opacity=40);}
+.warna{font-color:#ffffff;}
+

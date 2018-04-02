@@ -1,0 +1,55 @@
+/*******************tambahan************************/
+.lompat{height:130px;}
+.row{width: 100%;}
+.logo{width:80%;margin-bottom:20px; }
+.logo-nav{width:30%;margin-bottom:0px;margin-top:-10px;}
+
+/********************costum************************/
+.panel-heading{box-shadow:0px 5px 8px #ABB7B7; border:none;}
+.panel-default > .panel-heading-costum{background-color:#0e9aa7;}
+.panel-title{text-align:center;font-weight:bold;color:#fff;}
+.row{width:100%;}
+.form-control{border-radius:25px;}
+.btn{border-radius:25px;}
+.btn-default-round:hover,.btn-default-round:active:focus,.btn-default-round.active:focus{background-color:#fff;border:2px solid #0e9aa7;outline:none;}
+.btn-default-round{color:#fff;font-weight:bold;}
+.btn-default-round:hover,.btn-default-round:active:focus,.btn-default-round.active:focus{color:#0e9aa7;box-shadow:none;}
+.btn-default-round{border-radius:25px;background-color:#0e9aa7;border:2px solid #0e9aa7;}
+}.btn-default-round:focus,.btn-default-round:active:focus,.btn-default-round.active:focus,.btn-default-round.focus,.btn-default-round:active.focus,.btn-default-round.active.focus{outline:none;
+  border:2px;border-radius:25px; outline:25px auto -webkit-focus-ring-color;outline-offset:none;}
+.navbar-custom {
+	background-color:#0e9aa7;
+    color:#964B00;
+  	border-radius:0;
+}
+
+.navbar-custom .navbar-nav > li > a {
+  	color:#111;
+  	padding-left:20px;
+  	padding-right:20px;
+}
+.navbar-custom .navbar-nav > .active > a, .navbar-nav > .active > a:hover, .navbar-nav > .active > a:focus {
+    color: #964B00;
+	background-color:transparent;
+}
+
+.navbar-custom .navbar-nav > li > a:hover, .nav > li > a:focus {
+    text-decoration: none;
+    background-color:#808080;
+    border-radius: 5px;
+}
+
+.navbar-custom .navbar-brand {
+    padding-left: 110px;
+  	color:#ffffff;
+}
+.navbar-custom .navbar-toggle {
+  	background-color:#ffffff;
+}
+.navbar-custom .icon-bar {
+  	background-color:#33aa33;
+}
+.navbar-custom .navbar-end {
+    margin-right:0px;
+}
+.warna{font-color:#ffffff;}
